@@ -29,31 +29,31 @@ The final project involves building a dynamic website that incorporates all the 
 ## Folder Structure
 The repository is organized into weekly folders, each corresponding to a specific assignment or topic covered in the course. Below is the current structure:
 cse340-web-backend-development/
-├── week-01/
-│ ├── site-creation/
-│ │ └── index.js
-│ └── README.md
-├── week-02/
-│ ├── databases/
-│ │ └── database.sql
-│ └── README.md
-├── week-03/
-│ ├── vehicle-detail/
-│ │ └── detail.js
-│ └── README.md
-├── week-04/
-│ ├── adding-vehicles/
-│ │ └── add.js
-│ └── README.md
-├── week-05/
-│ ├── account-management/
-│ │ └── auth.js
-│ └── README.md
-├── week-06/
-│ ├── final-enhancements/
-│ │ └── enhancements.js
-│ └── README.md
-└── README.md
+- ├── week-01/
+- │ ├── site-creation/
+- │ │ └── index.js
+- │ └── README.md
+- ├── week-02/
+- │ ├── databases/
+- │ │ └── database.sql
+- │ └── README.md
+- ├── week-03/
+- │ ├── vehicle-detail/
+- │ │ └── detail.js
+- │ └── README.md
+- ├── week-04/
+- │ ├── adding-vehicles/
+- │ │ └── add.js
+- │ └── README.md
+- ├── week-05/
+- │ ├── account-management/
+- │ │ └── auth.js
+- │ └── README.md
+- ├── week-06/
+- │ ├── final-enhancements/
+- │ │ └── enhancements.js
+- │ └── README.md
+- └── README.md
 
 
 
@@ -91,7 +91,7 @@ For questions or feedback regarding this repository, feel free to contact me:
 
 - **Name** : Anderson Okai
 - **Email** : anderson.okai@example.com
-- **GitHub** : https://github.com/your-username
+- **GitHub** : https://github.com/febirison
 
 ## License
 This repository is licensed under the MIT License . Feel free to use the code for educational purposes.
